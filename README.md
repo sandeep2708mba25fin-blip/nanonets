@@ -20,13 +20,6 @@ The model was validated using standard classification performance metrics. Below
 * **Overall Accuracy (CA):** $82.4\%$ of total predictions were correctly classified by the model.
 
 ---
-
-## 🧩 Confusion Matrix
-
-To further inspect the model's true positives, false positives, true negatives, and false negatives, the confusion matrix highlights exactly where prediction errors occurred:
-
-![Confusion Matrix Screenshot](path/to/your/Confusion_Matrix_Screenshot.png)
-
 ### 🔍 Analysis of Prediction Splits
 
 | Actual \ Predicted | Class: 0 | Class: 1 | Total |
